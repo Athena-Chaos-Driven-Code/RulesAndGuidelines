@@ -8,7 +8,7 @@ These rules are supposed to be followed by Andreas, maintainers and contributors
 ## Supported Python Versions
 Although various programmers like to support older version, [Athena's Chaos Drive Code](https://github.com/Athena-Chaos-Driven-Code) is meant to work with the latest versions of Python. This means that older versions of Python are never supposed to be natively supported in the various projects. 
 
-**Currently supported Python Version :  ** [3.11.0](https://www.python.org/downloads/release/python-3110/) 
+**Currently supported Python Version :** [3.11.0](https://www.python.org/downloads/release/python-3110/) 
 - If this version of Python is still in an early release state, or the version has just come out, updating all the packages might take some time
 
 A singular exception to this is [AthenaColor](https://github.com/Athena-Chaos-Driven-Code/AthenaColor), due to maintainer's request. 
