@@ -10,13 +10,13 @@ Different changes, should be reflected in different commits, meaning that a sing
 ### Git commit message format:
 | Subject                                                             | Git Title          |
 | ------------------------------------------------------------------- | ------------------ |
-| Feature addition                                                    | `Feat : ...`       |
-| Documentation                                                       | `Docs : ...`       |
-| Bug fix                                                             | `Fix : ...`        |
-| Neither a fix or a feature addition, but a rework of a given system | `Refactor : ...`   |
-| Performance improvements                                            | `Perfomance : ...` |
-| Version Bump                                                        | `Bump : ...`       |
-| Update to the .gitignore file                                       | `GitIgnore : ...`  |
+| Feature addition                                                    | `Feat: ...`       |
+| Documentation                                                       | `Docs: ...`       |
+| Bug fix                                                             | `Fix: ...`        |
+| Neither a fix or a feature addition, but a rework of a given system | `Refactor: ...`   |
+| Performance improvements                                            | `Perfomance: ...` |
+| Version Bump                                                        | `Bump: ...`       |
+| Update to the .gitignore file                                       | `GitIgnore: ...`  |
 
 ### Git commit note format:
 Notes are to be used to give more relevant information about the commit
