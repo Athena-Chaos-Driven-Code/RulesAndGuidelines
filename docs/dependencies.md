@@ -21,6 +21,8 @@ A full list of accepted 3rd party packages. This list is a limited list, so only
 - [Numpy](https://pypi.org/project/numpy/)
 - [Pillow](https://pypi.org/project/Pillow/)
 - [scipy](https://pypi.org/project/scipy/)
+- [build](https://pypi.org/project/build/) : Package assembly
+- [twine](https://pypi.org/project/twine/) : Package upload to [PyPI](https://pypi.org/)
 
 ## Other Software Libraries or Packages
 - JavaScript frameworks:

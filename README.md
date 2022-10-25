@@ -15,4 +15,4 @@ A collection of rules and guidelines for [Athena's Chaos Drive Code](https://git
 ## Index
 - [Dependencies](docs/dependencies.md)
 - [Style Conventions](docs/style_conventions.md)
-- [Commit Messages](docs/commit_messages.md)
+- [Git Repo Structure](docs/git_structure.md)
