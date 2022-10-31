@@ -17,6 +17,7 @@ Different changes, should be reflected in different commits, meaning that a sing
 | Performance improvements                                            | `Perfomance: ...` |
 | Version Bump                                                        | `Bump: ...`       |
 | Update to the .gitignore file                                       | `GitIgnore: ...`  |
+| Removal of files other stale content                                | `Cleanup: ...`    |
 
 ### Git commit note format:
 Notes are to be used to give more relevant information about the commit
