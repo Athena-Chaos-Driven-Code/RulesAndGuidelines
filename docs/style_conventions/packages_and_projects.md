@@ -37,10 +37,10 @@ General project setup:
 │
 ├📁src (Marked in PyCharm as the Source root)
 │   ├📁Athena<Package>
-│		├📁data (Static data like commonly used strings, enum, etc...)
-│		├📁functions (Stand alone functions, decorators, and generators)
-│		├📁objects (Classes)
-│		├📄__init__.py (root imports)
+│	      ├📁data (Static data like commonly used strings, enum, etc...)
+│	      ├📁functions (Stand alone functions, decorators, and generators)
+│	      ├📁objects (Classes)
+│	      ├📄__init__.py (root imports)
 │
 ├📁tests (collection of tests, different sub folders mark different subjects)
 │
