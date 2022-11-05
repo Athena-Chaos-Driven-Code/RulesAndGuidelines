@@ -22,3 +22,4 @@ This project will be supported from 3.7 and onwards.
 	- [Differences to PEP 8](docs/style_conventions/differences_pep_8.md)
 	- [File Structure](docs/style_conventions/file_structure.md)
 	- [Packages and Projects](docs/style_conventions/packages_and_projects.md)
+- [Application Naming](docs/application_naming.md)
