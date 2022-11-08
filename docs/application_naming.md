@@ -9,11 +9,11 @@ These names try to align to the corresponding AI name in the Directive Athena St
 | Aero     | Life Support                     |                                 |                                                                                          |
 | Adam     | General Advisor                  |                                 |                                                                                          |
 | Athena   | /                                | /                               | /                                                                                         |
-| Eva      | General Advisor                  | Bot-wrangler                    |                                                                                          |
+| Eva      | General Advisor                  |                     |                                                                                          |
 | Ceres    | Agriculture                      |                                 |                                                                                          |
 | Jupiter  | Power Management                 |                                 |                                                                                          |
 | Minerva  | Science Department               |                                 |                                                                                          |
-| Neptune  | Water Management                 |                                 |                                                                                          |
+| Neptune  | Water Management                 | Bot-wrangler                    |                                                                                          |
 | Pluto    | Mining Operations                |                                 |                                                                                          |
 | Sol      | Spaceport and logistics          | Main API and connection systems | [Sol-PortusSpatiumAPI](https://github.com/DirectiveAthena-Applications/Sol-PortusSpatiumAPI) |
 | Venus    | Healthcare                       |                                 |                                                                                          |
