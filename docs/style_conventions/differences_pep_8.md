@@ -31,7 +31,9 @@ UPPERCASE is used for static data
 snake_case is used for everything else
 
 ```python
-EXAMPLE:str = "example" # this piece of string is never to be edited by the script
+from typing import Any, Final
+
+EXAMPLE:Final[str] = "example" # this piece of string is never to be edited by the script
 
 class Foo:
 	pass
